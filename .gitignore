@@ -4,6 +4,7 @@ css/.sass-cache/
 _site
 .sass-cache
 *~
+.idea
 
 # KDE directory preferences
 .directory
